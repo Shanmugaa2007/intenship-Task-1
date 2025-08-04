@@ -5,7 +5,7 @@ body {
     align-items: center;
     box-sizing: border-box;
     width: 70%;
-    height: 130vh;
+    height: 127vh;
     box-shadow: 4px 4px 8px 8px rgba(0,0,0,0.2);
     border-radius: 12px;
     transform: translateX(200px);
@@ -96,4 +96,5 @@ section .header {
     transform: translate(640px,-738px);
     width: 220px;
     font-family: Georgia, serif;    
+
 }
