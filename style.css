@@ -1,0 +1,99 @@
+body {
+    margin-top: 8px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    width: 70%;
+    height: 130vh;
+    box-shadow: 4px 4px 8px 8px rgba(0,0,0,0.2);
+    border-radius: 12px;
+    transform: translateX(200px);
+}
+section .header {
+    font-family: cursive;
+    font-size: 26px;
+    transform: translate(10px,10px);
+}
+#navbar {
+    transform: translate(300px,-30px);
+}
+.Content {
+    width: 320px;
+    padding-left: 30px;
+    transform: translateY(-20px);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+.define-content {
+    width: 390px;
+    color: #808080;
+    font-size: 14px;
+    padding-left: 25px;
+    height: 60px;
+    transform: translateY(-20px);
+}
+.img {
+    transform: translate(480px,-250px);
+    width: 330px;
+    height: 230px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.2);
+}
+#btn {
+   margin-left: 30px;
+}
+.service-head {
+    transform: translate(10px,-210px);
+    font-size: 32px;
+    font-family: cursive;
+}
+#settings {
+    transform: translate(50px,-200px);
+    width: 45px;
+    font-size: 33px;
+    color: #1546f7;
+}
+.services-head {
+    transform: translate(15px,-190px);
+    font-size: 24px;
+    font-family: Verdana,Tahoma;
+    font-weight: 500;
+}
+.service-para {
+    transform: translate(15px,-170px);
+    width: 220px;
+    font-family: Georgia, serif;
+}
+#network {
+    transform: translate(390px,-475px);
+    font-size: 32px;
+    color: #1546f7;
+}
+.Service-two {
+    transform: translate(340px,-468px);
+    font-size: 24px;
+    font-family: Verdana,Tahoma;
+    font-weight: 500;
+}
+.Service-ptwo {
+    transform: translate(330px,-451px);
+    width: 220px;
+    font-family: Georgia, serif;
+}
+#bulb {
+    transform: translate(690px,-760px);
+    font-size: 32px;
+    color: #1546f7;    
+}
+.Service-three {
+    transform: translate(650px,-750px);
+    font-size: 24px;
+    font-family: Verdana,Tahoma;
+    font-weight: 500;    
+}
+.Service-pthree {
+    transform: translate(640px,-738px);
+    width: 220px;
+    font-family: Georgia, serif;    
+}
